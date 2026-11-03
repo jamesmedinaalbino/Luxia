@@ -1,0 +1,6 @@
+{
+  "name": "LUXIA - Control de Operaciones y Seguridad Electrónica",
+  "description": "Aplicación móvil para seguimiento de tareas de campo, actas digitales con fotos y firmas en tiempo real, descarga de PDF y evaluación confidencial de contratistas para LUXIA Seguridad Electrónica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
